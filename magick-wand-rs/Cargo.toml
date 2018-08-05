@@ -1,0 +1,11 @@
+[package]
+name = "magick-wand"
+version = "0.1.0"
+authors = ["Emilio Cobos Álvarez <emilio@crisal.io>"]
+
+[dependencies]
+clap = "2.32"
+
+[build-dependencies]
+bindgen = "0.37"
+pkg-config = "0.3"
