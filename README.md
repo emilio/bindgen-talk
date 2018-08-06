@@ -19,4 +19,3 @@ $ make
 ```
 $ cargo build
 ```
-```
