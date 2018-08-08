@@ -9,7 +9,9 @@ theme: white
 
 ## In a nutshell
 
-Generates bindings (struct and function definitions) from C / C++ code.
+ * Generates bindings (struct and function definitions) from C / C++ code.
+
+ * [github.com/rust-lang-nursery/rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen)
 
 ::: notes
 
